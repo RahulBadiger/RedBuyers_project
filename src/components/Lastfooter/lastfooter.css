@@ -1,0 +1,47 @@
+#footercont{
+    /* display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px; */
+}
+#foot1{
+    color: #0061DF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+#foot3{
+    color: #999;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   
+}
+#foot4{
+    color: #999;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#foot5{
+    color: #999;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#foot6{
+    color: #999;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

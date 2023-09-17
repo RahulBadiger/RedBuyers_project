@@ -1,0 +1,50 @@
+#info{
+    display: flex;
+    flex-direction: column;
+    /* flex: 1; */
+    justify-items: center;
+    align-items: center;
+    /* margin-top: 90px; */
+    background-image: url(../../assets/emoteshome.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 35%;
+    
+}
+#info>:nth-child(2){
+    color: #13131A;
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -05%;
+}
+#info>:nth-child(3){
+    color: #13131A;
+    text-align: center;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#info>:nth-child(4){
+    color: #13131A;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#info>:nth-child(1){
+    width: 100px;
+    height: 100px;
+    transform: rotate(50deg);
+    flex-shrink: 0;
+    fill: #FFF;
+    position: relative;
+    left: -40%;
+}

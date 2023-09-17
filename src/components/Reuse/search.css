@@ -1,0 +1,62 @@
+#inp{
+    width: 40%;
+    height: 60px;
+    /* flex-shrink: 0; */
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #999;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.36px;
+    /* text-align:left; */
+    /* padding-left: 60px; */
+    border: none;
+    text-align: center;
+    /* width: 150%; */
+    position: absolute;
+    z-index: 50;
+}
+#icon{
+    /* position: relative; */
+    /* top: 12px; */
+    /* left: 56px; */
+    /* bottom: 0; */
+    margin: auto;
+    height: 44px;
+    width: 44px;
+    /* flex-shrink: 0; */
+    position: relative;
+    z-index: 60;
+}
+#serachbtn{
+    /* display: inline-flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* gap: 20px; */
+    border-radius: 15px;
+    background: #0061DF;
+    box-shadow: 1px 1px 4px 0px rgba(0, 97, 223, 0.30);
+    width: 200px;
+    height:50px ;
+    color: #FFF;
+    /* text-align: center; */
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: auto;
+    border: none;
+    position: relative;
+    z-index: 60;
+    /* left: 325px; */
+    /* top: -55px; */
+    box-shadow: 0 -29px 20px -20px rgba(122,204,236,.45), 0 18px 20px -9px rgba(122,204,236,.45)
+}
+#serachbtn:hover{
+    cursor: pointer;
+}

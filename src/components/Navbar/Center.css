@@ -1,0 +1,13 @@
+#centertag {
+    color: #fff;
+    font: 16px inter, sans-serif;
+    font-weight: 500;
+}
+
+#divtag {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
